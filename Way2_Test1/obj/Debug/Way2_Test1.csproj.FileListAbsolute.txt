@@ -1,0 +1,6 @@
+c:\users\tiagos\documents\visual studio 2012\Projects\Way2_Test1\Way2_Test1\bin\Debug\Way2_Test1.exe.config
+c:\users\tiagos\documents\visual studio 2012\Projects\Way2_Test1\Way2_Test1\bin\Debug\Way2_Test1.exe
+c:\users\tiagos\documents\visual studio 2012\Projects\Way2_Test1\Way2_Test1\bin\Debug\Way2_Test1.pdb
+c:\users\tiagos\documents\visual studio 2012\Projects\Way2_Test1\Way2_Test1\obj\Debug\Way2_Test1.csprojResolveAssemblyReference.cache
+c:\users\tiagos\documents\visual studio 2012\Projects\Way2_Test1\Way2_Test1\obj\Debug\Way2_Test1.exe
+c:\users\tiagos\documents\visual studio 2012\Projects\Way2_Test1\Way2_Test1\obj\Debug\Way2_Test1.pdb
